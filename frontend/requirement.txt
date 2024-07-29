@@ -1,0 +1,5 @@
+axios
+react-router-dom
+react-bootstrap bootstrap
+jwt-decode
+mdb-react-ui-kit
